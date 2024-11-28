@@ -33,6 +33,7 @@ Modelagem de Banco de Dados para um E_Commerce - Ministrado por Juliana Mascaren
 
 # 2) Modelo Do Banco de Dados - MySql Workhbench
 
+Segue abaixo o link para o modelo:
 
 
 https://github.com/AndLSantos/Banco_Dados_ECommerce/blob/main/ECommerce_Bootcamp_Suzano.png
