@@ -7,7 +7,7 @@ Modelagem de Banco de Dados para um E_Commerce - Ministrado por Juliana Mascaren
 ## 1.1) Clientes
 - Clientes realizam pedidos
 - Clientes podem ser Pessoa Física (Clientes) ou Pessoa Jurídica (Fornecedores e Vendedores Terceiros )
-    - EER: Superclasses e Subclasses
+    - EER: Superclasse e Subclasses (Clientes, Fornecedores e Vendedores Terceiros)
   -   Atributos da Superclasse
   -   Atributos das Subclasses
     
