@@ -3,7 +3,7 @@ Modelagem de Banco de Dados para um E_Commerce - Ministrado por Juliana Mascaren
 
 # Design do Projeto Elaborado no MySql Workbench
 
-# 1) Modelo Esquemático do Cenário a ser Modelado
+# 1) Esquema do Cenário a ser Modelado
 ## 1.1) Clientes
 - Clientes realizam pedidos
 - Clientes podem ser Pessoa Física (Clientes) ou Pessoa Jurídica (Fornecedores e Vendedores Terceiros )
