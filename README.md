@@ -31,7 +31,7 @@ Modelagem de Banco de Dados para um E_Commerce - Ministrado por Juliana Mascaren
 - Geospacializar as informações de vendas de produtos, clientes e fornecedores
 - Utilização de geocódigo do IBGE para relacionar com tabelas de dados sociodemográficos do IBGE
 
-# 2) Modelo Do Banco de Dados - MySql Workhbench
+# 2) Modelo Do Banco de Dados - MySql Workbench
 
 Segue abaixo o link para o modelo:
 
